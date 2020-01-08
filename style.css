@@ -441,7 +441,7 @@
 #rcs-newmessages{
     border:0;
     padding:5px 3px;
-    box-shadow:inset 0 0 0 1px rgba(227,173,22,.851);
+    box-shadow:inset 0 0 0 1px rgba(144,22,227,.851);
     background:rgba(29,43,57,.8)!important
 }
 #dashboard{
@@ -591,10 +591,10 @@
     z-index:-1
 }
 #user-view #the-user-profile .bar .progress{
-    background:#b48a12
+    background:#9f16e3
 }
 #user-view #the-user-profile .levels .level-box .label{
-    background-color:#b48a12
+    background-color:#9f16e3
 }
 #playlist-panel #playlist-menu,#user-view #user-menu,#user-view .jspContainer .jspPane .cell,.popover .share-room{
     background-color:rgba(0,0,0,.8)!important;
@@ -615,7 +615,7 @@
     background:#a67f11
 }
 #user-view .dropdown dt{
-    box-shadow:inset -39px 0 0 0 #b48a12
+    box-shadow:inset -39px 0 0 0 #9f16e3
 }
 #playlist-panel #media-panel .actions,#user-view .dropdown dd{
     background:linear-gradient(300deg,rgba(29,43,57,.8),#000)!important
@@ -762,7 +762,7 @@
     transition:.4s ease
 }
 .community .left-side-wrapper .left-side-wrapper-inner .community__left-nav .nav-left__item:hover{
-    background:rgba(227,173,22,.851)
+    background:rgba(144,22,227,.851)
 }
 .community .left-side-wrapper .left-side-wrapper-inner .community__left-nav .nav-left__item.selected{
     border-left-color:#9f16e3
@@ -827,7 +827,7 @@
     border-bottom:1px solid #9f16e3!important
 }
 .community .right-side-wrapper .community__right-bar #header-panel-bar .header-panel-button.selected .bar-count,.community .right-side-wrapper .community__right-bar #header-panel-bar .header-panel-button.selected i{
-    color:#b48a12
+    color:#9f16e3
 }
 .community .right-side-wrapper .community__right-bar #rcs-menu .rsrow:hover,.community .right-side-wrapper .community__right-bar #user-lists .list .user:hover{
     background:linear-gradient(to right,rgba(145,71,255,.25),transparent)!important
@@ -888,7 +888,7 @@
 }
 .community .right-side-wrapper .community__right-bar #chat #chat-messages .cm.mention{
     border:0;
-    box-shadow:0 1px 0 0 #b48a12,0 -1px 0 0 #b48a12;
+    box-shadow:0 1px 0 0 #9f16e3,0 -1px 0 0 #9f16e3;
     background:linear-gradient(340deg,rgba(180,138,18,.25),transparent 80%)
 }
 .community .right-side-wrapper .community__right-bar #chat #chat-messages .cm.mention.role-host{
@@ -922,7 +922,7 @@
     background:0 0
 }
 .community .right-side-wrapper .community__right-bar #chat #chat-messages .cm.log .msg{
-    background:radial-gradient(rgba(227,173,22,.851),transparent 70%);
+    background:radial-gradient(rgba(144,22,227,.851),transparent 70%);
     padding:10px 5px
 }
 .community .right-side-wrapper .community__right-bar #chat #chat-messages .cm.log .text{
