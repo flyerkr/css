@@ -467,7 +467,7 @@
 }
 #dashboard #dashboard-search:focus-within{
     background:rgba(20,30,40,.83);
-    box-shadow:inset 0 0 0 1px #e3ad16!important
+    box-shadow:inset 0 0 0 1px #9f16e3!important
 }
 #dashboard .genres__menu-content .genres__menu .genre.active,#dashboard .genres__menu-content .genres__menu .genre:hover,#dashboard .search__box .dashboard__title .number,.community .right-side-wrapper .community__right-bar #chat #chat-messages .cm .from.staff .un{
     color:#9147ff
@@ -485,7 +485,7 @@
 }
 #dashboard .search.focused{
     background:rgba(20,30,40,.83);
-    box-shadow:inset 0 0 0 1px #e3ad16!important
+    box-shadow:inset 0 0 0 1px #9f16e3!important
 }
 #dashboard .genres__menu-content{
     border-color:rgba(103,18,180,.8)
@@ -569,7 +569,7 @@
 }
 #playlist-panel #search #filter-bar.focused,#playlist-panel #search #search-bar.focused,#playlist-panel #search #search-menu.focused,#user-view #the-user-profile .blurb .box+input,#user-view .search-box .search.focused{
     background:rgba(20,30,40,.83);
-    box-shadow:inset 0 0 0 1px #e3ad16!important
+    box-shadow:inset 0 0 0 1px #9f16e3!important
 }
 #user-view #the-user-profile .points .pp .pp-points{
     background-color:#9147ff
@@ -676,7 +676,7 @@
     box-shadow:inset 0 2px 0 -1px rgba(103,18,180,.8),inset 2px 0 0 -1px rgba(103,18,180,.8)!important
 }
 #user-rollover:not(.is-staff) .action:hover{
-    box-shadow:inset 0 2px 0 -1px #e3ad16,inset 2px 0 0 -1px #e3ad16!important;
+    box-shadow:inset 0 2px 0 -1px #9f16e3,inset 2px 0 0 -1px #9f16e3!important;
     background:rgba(227,173,22,.267)!important
 }
 #user-rollover:not(.is-staff) .badge-box{
@@ -723,7 +723,7 @@
     font-size:.8em!important
 }
 .community .is-you .name,.community .left-side-wrapper .left-side-wrapper-inner .community__left-nav .nav-left__item.selected .nav-left__item-icon{
-    color:#e3ad16
+    color:#9f16e3
 }
 .community .community__name{
     color:#9a56ff;
@@ -731,7 +731,7 @@
 }
 .community .left-side-wrapper .community__top{
     background:linear-gradient(45deg,rgba(20,30,40,.83) 30%,rgba(180,138,18,.25));
-    box-shadow:0 1px 5px #e3ad16,inset 0 -1px #e3ad16,inset 0 6px 50px 5px #000
+    box-shadow:0 1px 5px #9f16e3,inset 0 -1px #9f16e3,inset 0 6px 50px 5px #000
 }
 .community .left-side-wrapper .community__top .community__top-right>div>div{
     box-shadow:0 0 5px 3px rgba(0,0,0,.8)
@@ -745,11 +745,11 @@
     animation:rubberBand .4s
 }
 .community .left-side-wrapper .community__top .community__top-right .user-level .circular-progress{
-    background-color:#e3ad16;
+    background-color:#9f16e3;
     background-blend-mode:saturation
 }
 .community .left-side-wrapper .community__top .community__top-right .user-profile .avatar-wrapper{
-    border-color:#e3ad16
+    border-color:#9f16e3
 }
 .community .left-side-wrapper .left-side-wrapper-inner{
     background-image:url(https://i.imgur.com/Ec4AmDX.png)!important
@@ -764,7 +764,7 @@
     background:rgba(227,173,22,.851)
 }
 .community .left-side-wrapper .left-side-wrapper-inner .community__left-nav .nav-left__item.selected{
-    border-left-color:#e3ad16
+    border-left-color:#9f16e3
 }
 .community .left-side-wrapper .left-side-wrapper-inner .room-controls .room-vote--desktop{
     border-color:rgba(180,138,18,.25)
@@ -800,19 +800,19 @@
 }
 .community .left-side-wrapper .community__bottom{
     background:linear-gradient(90deg,rgba(20,30,40,.83),rgba(180,138,18,.25),rgba(20,30,40,.83));
-    box-shadow:0 -1px 0 #e3ad16,inset 0 -6px 50px 5px #000,inset 0 -5px 3px #000
+    box-shadow:0 -1px 0 #9f16e3,inset 0 -6px 50px 5px #000,inset 0 -5px 3px #000
 }
 .community .left-side-wrapper .community__bottom>div{
     background-color:transparent
 }
 .community .left-side-wrapper .community__bottom .community__playlist--desktop .icon-playlist,.community .right-side-wrapper .community__right-bar #chat #chat-messages .cm .from.you .un,.user-level-dropdown .list-unstyled .user-profile-dropdown__item:hover>i,.user-level-dropdown .list-unstyled .user-profile-dropdown__item:hover>span,.user-profile-dropdown .list-unstyled .user-profile-dropdown__item:hover>i,.user-profile-dropdown .list-unstyled .user-profile-dropdown__item:hover>span{
-    color:#e3ad16
+    color:#9f16e3
 }
 .community .left-side-wrapper .community__bottom .bottom__playback-controls .bottom__playback-controls--desktop .community__player-item{
     border-color:rgba(180,138,18,.25)
 }
 .community .left-side-wrapper .community__bottom .bottom__playback-controls .progress .progress-bar,.community .left-side-wrapper .community__bottom .bottom__playback-meta .community__song-playing-progress .progress .progress-bar{
-    background-color:#e3ad16
+    background-color:#9f16e3
 }
 .community .right-side-wrapper .community__right-bar{
     background:linear-gradient(300deg,rgba(29,43,57,.8),#000)!important
@@ -823,7 +823,7 @@
 }
 .community .right-side-wrapper .community__right-bar #header-panel-bar .header-panel-button.selected{
     background:linear-gradient(to top,rgba(180,138,18,.25),transparent);
-    border-bottom:1px solid #e3ad16!important
+    border-bottom:1px solid #9f16e3!important
 }
 .community .right-side-wrapper .community__right-bar #header-panel-bar .header-panel-button.selected .bar-count,.community .right-side-wrapper .community__right-bar #header-panel-bar .header-panel-button.selected i{
     color:#b48a12
@@ -842,7 +842,7 @@
 }
 .community .right-side-wrapper .community__right-bar #user-lists .input-background:focus-within,.community .right-side-wrapper .community__right-bar .friends .input-background:focus-within{
     background:rgba(20,30,40,.83);
-    box-shadow:inset 0 0 0 1px #e3ad16!important
+    box-shadow:inset 0 0 0 1px #9f16e3!important
 }
 .community .right-side-wrapper .community__right-bar .friends .row:not(.is-offline):hover{
     background:linear-gradient(to right,rgba(145,71,255,.25),transparent)!important
@@ -869,7 +869,7 @@
 }
 .community .right-side-wrapper .community__right-bar #rcs-menu .search:focus-within{
     background:rgba(20,30,40,.83);
-    box-shadow:inset 0 0 0 1px #e3ad16!important
+    box-shadow:inset 0 0 0 1px #9f16e3!important
 }
 .community .right-side-wrapper .community__right-bar #chat #chat-header{
     border-bottom:#000 1.5px solid;
@@ -957,7 +957,7 @@
 }
 .community .right-side-wrapper .community__right-bar #chat #chat-input:focus-within{
     background:rgba(20,30,40,.83);
-    box-shadow:inset 0 0 0 1px #e3ad16!important
+    box-shadow:inset 0 0 0 1px #9f16e3!important
 }
 .user-level-dropdown:after,.user-profile-dropdown:after{
     border-bottom-color:rgba(20,30,40,.83)
