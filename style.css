@@ -1021,8 +1021,8 @@
 .community__playback-meta--desktop:after{
     content:url(https://i.imgur.com/6zlggl6.png);
     position:absolute;
-    margin-top:5px;
-    margin-left:36vw;
+    margin-top:3px;
+    margin-left:30vw;
     -webkit-animation:pulse 1s alternate infinite;
     animation:pulse 1s alternate infinite
 }
@@ -1082,7 +1082,7 @@ li.community__player-item.volume{
         margin-left:-230px
     }
     .community__playback-meta--desktop:after{
-        margin-left:39vw
+        margin-left:30vw
     }
 }
 @media (max-width:1325px){
