@@ -2,7 +2,7 @@
     "room": "DiamonD",
     "author": "DiamonD",
     "icon": null,
-    "css": "https://raw.githack.com/flyerkr/css/master/css/users.css",
+    "css": "https://raw.githack.com/flyerkr/css/master/style",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
